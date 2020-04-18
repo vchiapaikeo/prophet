@@ -127,7 +127,7 @@ setup(
     license='MIT',
     packages=find_packages(),
     setup_requires=[
-        "pystan==2.14",
+        "Cython==0.29.16",
         "numpy==1.18.2",
     ],
     install_requires=install_requires,
