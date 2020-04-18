@@ -129,6 +129,7 @@ setup(
     setup_requires=[
         "Cython==0.29.16",
         "numpy==1.18.2",
+        "pandas==1.0.3",
     ],
     install_requires=install_requires,
     zip_safe=False,
