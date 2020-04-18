@@ -170,7 +170,7 @@ setup(
         # "setuptools-git==1.2",
         # "six==1.14.0",
         # "SQLAlchemy==1.3.12",
-        # "tqdm==4.45.0",
+        "tqdm==4.45.0",
         # "uritemplate==3.0.1",
         # "urllib3==1.25.9",
         # "wcwidth==0.1.9",
