@@ -144,7 +144,7 @@ setup(
         "korean-lunar-calendar==0.2.1",
         "LunarCalendar==0.0.9",
         # "marshmallow==2.13.6",
-        # "matplotlib==3.2.1",
+        "matplotlib==3.2.1",
         # "mock==4.0.2",
         # "more-itertools==8.2.0",
         "numpy==1.18.2",
