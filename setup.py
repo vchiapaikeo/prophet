@@ -131,6 +131,7 @@ setup(
         "numpy==1.18.2",
         "pandas==1.0.3",
         "convertdate==2.2.0",
+        "LunarCalendar==0.0.9",
     ],
     install_requires=install_requires,
     zip_safe=False,
